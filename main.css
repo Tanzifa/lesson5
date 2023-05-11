@@ -1,0 +1,55 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.boxes1{
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    border-radius: 40px;
+    display: flex;
+   flex-direction: column-reverse;
+    margin-left: 500px;
+
+}
+
+.boxes1 div{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(118, 11, 218);
+   
+
+}
+
+.box2{
+
+}
+
+
+.boxes1 div:last-child{
+   
+}
+.boxes2{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(218, 11, 11);
+    align-self: flex-end;
+
+}
+
+
+
+   
+    
+
+     
+
+
+ 
